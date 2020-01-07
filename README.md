@@ -20,6 +20,8 @@
 
 译者：Gavin Foo [fuxiaopang@gmail.com](mailto:fuxiaopang@gmail.com)
 
+博客作者：联系请[点击](https://k8sadmin.info/lian-xi-zuo-zhe)，搬运不易，希望请作者喝咖啡，可以联系博客作者
+
 ## 前言
 
 这本书还在不断地添加内容中，我们会陆陆续续地在这里添加新的章节。这本书中的内容针对的是 Elasticsearch 的最新版本。
